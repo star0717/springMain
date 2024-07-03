@@ -56,6 +56,7 @@ function displaySingleProduct(data) {
   product.appendChild(game);
 
   document.querySelector(".cartBtn").addEventListener("click", () => {
+  alert("장바구니에 성공적으로 담겼습니다.")
     sessionCurrent(data);
   });
 }

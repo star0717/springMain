@@ -10,6 +10,7 @@
         <option value="$PROJECT_DIR$/wholesale_company/pom.xml" />
         <option value="$PROJECT_DIR$/jdbcproject/pom.xml" />
         <option value="$PROJECT_DIR$/gameshop_jwt/pom.xml" />
+        <option value="$PROJECT_DIR$/gameshop_jwt/gameshop_jwt/pom.xml" />
       </list>
     </option>
   </component>

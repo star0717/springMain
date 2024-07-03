@@ -8,13 +8,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="firstapp" />
-        <module name="gameshop (1)" />
         <module name="wholesale_company" />
         <module name="gameshop" />
         <module name="jdbcproject" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="gameshop (1)" target="21" />
       <module name="trading-company" target="21" />
     </bytecodeTargetLevel>
   </component>
